@@ -1,0 +1,494 @@
+{
+ "ca": {
+  "prods": {
+   "final": {
+    "t": "Gràcies per contactar amb Confisergur",
+    "p": [
+     "En breu ens posarem en contacte amb tu. Salutacions"
+    ]
+   },
+   "coche": {
+    "t": "Assegurança de cotxe",
+    "p": [
+     "Necessites una assegurança pel teu cotxe nou? Has de renovar la teva assegurança de cotxe?",
+     "A Confisergur t'assessorem sobre les cobertures que més et convenen, comparem amb les millors companyies per oferir-te la millor assegurança de cotxe per a tu, amb les millors cobertures i al millor preu. A més, estem al teu costat davant qualsevol imprevist, realitzant totes les gestions amb la companyia per tu."
+    ]
+   },
+   "moto": {
+    "t": "Assegurança de moto",
+    "p": [
+     "Necessites una assegurança de moto que s'adapti a les teves necessitats?",
+     "A Confisergur treballem amb les companyies líders en el sector. Negociem amb elles per oferir-te les millors cobertures, sempre al millor preu, perquè gaudeixis dels teus viatges en moto amb total seguretat."
+    ]
+   },
+   "camper": {
+    "t": "Assegurança de Camper / Autocaravana",
+    "p": [
+     "Si el que busques és una assegurança per la teva casa rodant, tenim LA TEVA ASSEGURANÇA!",
+     "Som especialistes en assegurances per campers i autocaravanes. La nostra experiència ens ha permès crear la millor assegurança d'autocaravana i camper, amb cobertures exclusives perquè tu només t'hagis de preocupar de gaudir-la al màxim."
+    ]
+   },
+   "caravana": {
+    "t": "Assegurança de Caravana",
+    "p": [
+     "Les nostres assegurances per a caravanes t'ofereixen les millors cobertures per la teva casa rodant, perquè tu només hagis d'escollir el destí.",
+     "La nostra experiència en el sector ens ha permès conèixer les necessitats que poden sorgir quan viatges amb la teva caravana, i així poder-te oferir les millors cobertures per viatjar segur."
+    ]
+   },
+   "offroad": {
+    "t": "Assegurança de Off Road",
+    "p": [
+     "A Confisergur tenim la millor assegurança pel teu vehicle Off Road.",
+     "Som conscients que es tracta d'un vehicle especial, amb el que busques aventures i bons moments. Nosaltres t'oferim l'assegurança ideal perquè el puguis gaudir al màxim."
+    ]
+   },
+   "hogar": {
+    "t": "Assegurança de Llar",
+    "p": [
+     "Necessites una assegurança per casa teva? Necessites una assegurança pel teu pis de lloguer?",
+     "A Confisergur analitzem el teu cas i t'assessorem sobre les cobertures que necessites per estar ben protegit. T'oferim la millor assegurança per la teva llar, aquella que s'adapta a les teves necessitats i al millor preu. A més, revisem periòdicament la pòlissa perquè sempre estiguis ben cobert davant qualsevol imprevist."
+    ]
+   },
+   "salud": {
+    "t": "Assegurança de Salut",
+    "p": [
+     "A Confisergur t'oferim només les millors assegurances de salut, les que tenen les millors cobertures als millors preus, perquè sabem que la salut és el més important.",
+     "Protegeix la teva salut i la de la teva família amb una assegurança mèdica que et respongui de manera eficient i ràpida sempre que ho necessitis, i amb un quadre mèdic a prop teu."
+    ]
+   },
+   "accidentes": {
+    "t": "Assegurança d’Accidents",
+    "p": [
+     "Estàs buscant una assegurança d'accidents?",
+     "A Confisergur sabem l'important que és estar ben protegit davant qualsevol accident.",
+     "Els nostres professionals compten amb l'experiència necessària per assessorar-te sobre quina és la millor assegurança d'accidents per a tu. Treballem amb les millors companyies per oferir-te les assegurances d'accidents més completes, amb les millors cobertures i sempre al millor preu."
+    ]
+   },
+   "comunidad": {
+    "t": "Assegurança de Comunitat de Propietaris",
+    "p": [
+     "Ets administrador o administradora d'una comunitat de veïns? Necessites una assegurança per a la vostra comunitat?",
+     "Les comunitats de propietaris necessiten una assegurança que els cobreixi davant qualsevol eventualitat.",
+     "A Confisergur sabem que cada comunitat és diferent, per això analitzem el vostre cas i us proporcionem l'assegurança que millor s'adapti a les vostres necessitats."
+    ]
+   },
+   "vida": {
+    "t": "Assegurança de Vida",
+    "p": [
+     "Estàs buscant una assegurança de vida?",
+     "A Confisergur treballem amb les millors companyies, comparem i negociem amb elles per proporcionar-te l'assegurança de vida que millor s'adapta a les teves necessitats.",
+     "Perquè no totes les assegurances de vida són iguals, l'equip de professionals de Confisergur t'assessorem sobre quina és l'assegurança de vida ideal per a tu."
+    ]
+   },
+   "decesos": {
+    "t": "Assegurança de Decessos",
+    "p": [
+     "L'assegurança de decessos protegeix els teus familiars davant la delicada situació emocional que suposa gestionar tots els tràmits legals de la defunció d'un ser estimat. Aquesta assegurança cobreix les despeses del servei fúnebre i es responsabilitza dels tràmits administratius, i així alliberar als familiars de totes aquestes gestions en aquests moments tan delicats.",
+     "A Confisergur t'ajudem a trobar la pòlissa de decessos que millor s'adapti a les teves circumstàncies i garanteixi la tranquil·litat dels teus familiars."
+    ]
+   },
+   "viaje": {
+    "t": "Assegurança de Viatge",
+    "p": [
+     "Estàs planificant un viatge? Busques una assegurança de viatge per poder viatjar amb total tranquil·litat?",
+     "Cada viatge és diferent i cada viatger també. Per això a Confisergur t'assessorem sobre quina és l'assegurança de viatge que necessites. Treballem amb les millors companyies especialitzades per oferir-te l'assegurança de viatge que millor s'adapti a tu i al millor preu."
+    ]
+   },
+   "alquiler": {
+    "t": "Assegurança d’Impagament de Lloguer",
+    "p": [
+     "Si ets propietari d'un immoble i tens pensat llogar-lo, a Confisergur tenim la solució ideal per a tu.",
+     "L'assegurança d'impagament de lloguer és el millor aliat per protegir la teva propietat contra danys i per assegurar l'impagament dels lloguers. Lloga amb la màxima seguretat!"
+    ]
+   },
+   "mascotas": {
+    "t": "Assegurança de mascotes",
+    "p": [
+     "Si estimes la teva mascota com un membre més de la teva família, protegeix-la amb la millor assegurança de mascotes.",
+     "T'oferim diferents opcions de cobertura i t'ajudem a escollir quina és l'assegurança de mascotes que millor s'adapta al teu estimat amic."
+    ]
+   },
+   "bicicletas": {
+    "t": "Assegurança de Bicicletes i Patinets",
+    "p": [
+     "La vida canvia. La manera de desplaçar-nos també.",
+     "Una mobilitat més respectuosa amb el medi ambient és responsabilitat de tots.",
+     "A Confisergur som conscients d'això i per aquest motiu t'oferim un àmplia varietat d'assegurances per a bicicletes i patinets, siguin elèctrics o no, amb les millors cobertures i al millor preu."
+    ]
+   },
+   "embarcaciones": {
+    "t": "Assegurança d’Embarcacions Recreatives",
+    "p": [
+     "Tens alguna embarcació amb la que gaudeixes de la teva passió pel mar?",
+     "A Confisergur t’oferim l’assegurança a mida perquè tu decideixis el nivell de cobertura que li vulguis donar. Màxima seguretat i tranquil·litat perquè gaudeixis al màxim de la navegació."
+    ]
+   },
+   "comercio": {
+    "t": "Assegurança de Comerç",
+    "p": [
+     "Sabem que el teu negoci és el projecte dels teus somnis. En ell hi destines molts esforços i il·lusions.",
+     "A Confisergur t'oferim les assegurances que millor s'adapten al teu negoci. Màxima protecció i cobertures perquè tu només pensis en assolir l'èxit empresarial."
+    ]
+   },
+   "pime": {
+    "t": "Assegurança de PIME",
+    "p": [
+     "Estar al capdavant d'una empresa requereix focalitzar-se en el bon funcionament, adoptant els ajustos necessaris, prenent decisions i adaptant-se als canvis constants del mercat.",
+     "La nostra experiència en assegurances per a empreses ens converteix en el millor aliat per a la seva protecció, continuïtat i èxit."
+    ]
+   },
+   "responsabilidad": {
+    "t": "Assegurança de Responsabilitat Civil",
+    "p": [
+     "L'activitat de les empreses s'exposa a certs riscos necessaris per assolir l'èxit, però que poden ocasionar danys a tercers, tant materials com personals.",
+     "Les nostres assegurances de responsabilitat civil ofereixen la tranquil·litat de no comprometre la viabilitat i futur de les empreses que confien en nosaltres."
+    ]
+   },
+   "do": {
+    "t": "Assegurança de D&O",
+    "p": [
+     "Les decisions preses des dels equips directius poden arribar a generar responsabilitats que afectin el patrimoni dels seus integrants.",
+     "L'assegurança D&O protegeix davant els riscos que poden comportar determinats càrrecs directius i donen protecció davant les conseqüències de les seves decisions.",
+     "A Confisergur us assessorem sobre quina és l'assegurança de D&O que millor s'adapta a la vostra organització, oferint-vos totes les gestions de contractació i seguiment."
+    ]
+   },
+   "ciber": {
+    "t": "Assegurança Ciber",
+    "p": [
+     "La tecnologia ha proporcionat agilitat, eficiència i connectivitat en l'activitat de les empreses, però també ha generat nous riscos als quals estan exposades.",
+     "La demanada d'assegurances contra ciber riscos creix de manera exponencial en els últims anys. La nostra experiència ens ha ensenyat que l'assegurança ciber és una de les imprescindibles per a qualsevol organització d'avui en dia, independenment de la seva mida o activitat."
+    ]
+   },
+   "baja": {
+    "t": "Assegurança de Baixa Laboral",
+    "p": [
+     "No hi ha dubte que les assegurances de baixa laboral són un imprescindible pels treballadors autònoms.",
+     "Ajuden a mantenir el nivell d'ingressos i fer front a les despeses fixes recurrents del teu negoci, assegurant així la seva continuïtat."
+    ]
+   },
+   "accidente_convenio": {
+    "t": "Assegurança d’Accidents Conveni",
+    "p": [
+     "L'assegurança d'accidents conveni dona compliment la normativa de determinats convenis col·lectius.",
+     "A Confisergur t'oferim la millor opció d'assegurança d'accidents de conveni perquè no t'hagis de preocupar. Realitzem els tràmits de contractació i gestió perquè els teus treballadors estiguin sempre ben protegits i la teva empresa compleixi amb el conveni establert."
+    ]
+   },
+   "salud_laboral": {
+    "t": "Assegurança de Salut",
+    "p": [
+     "Cada vegada hi ha més empreses que aposten per millors beneficis socials, econòmics i emocionals pels seus treballadors.",
+     "Les assegurances de salut col·lectives afavoreixen un bon clima laboral, incrementen la satisfacció i productivitat dels treballadors i reforcen el compromís amb l'empresa.",
+     "Els nostres professionals assessoren la vostra empresa a trobar aquella assegurança de salut col·lectiva que millor s'adapti a les vostres singularitats i necessitats."
+    ]
+   },
+   "medioambiental": {
+    "t": "Assegurança de Responsabilitat Medioambiental",
+    "p": [
+     "Tota activitat empresarial té major o menor impacte mediambiental. La Llei de Responsabilitat Mediambiental pretén assegurar que qualsevol operador econòmic pugui disposar dels recursos econòmics suficients per poder fer front a les despeses derivades dels danys que pogués provocar la seva activitat en el medi ambient.",
+     "Els nostres experts us assessoraran sobre quina pòlissa de responsabilitat mediambiental requereix la vostra empresa, per així complir amb la legislació vigent."
+    ]
+   },
+   "construccion": {
+    "t": "Assegurança de Tot Risc Construcció",
+    "p": [
+     "L'objectiu fonamental de l'assegurança de tot risc construcció és protegir contra els danys i pèrdues accidentals que l'obra pugui ocasionar, així com contra reclamacions de tercers per danys personals o materials.",
+     "A Confisergur no volem que cap contratemps impedeixi acabar la teva obra. Per això treballem amb companyies especialitzades en assegurances de la construcció, que protegeixen de la millor manera els riscos que puguin esdevenir."
+    ]
+   },
+   "decenal": {
+    "t": "Assegurança Decennal",
+    "p": [
+     "L'assegurança decennal és una garantia per qualsevol comprador d'un nou habitatge i d'obligada contractació per part del promotor.",
+     "Ofereix tranquil·litat i seguretat en la promoció d'habitatges pels futurs compradors, és sinònim de prestigi i reconeixement de bona praxi.",
+     "A Confisergur treballem amb companyies líders en el sector per oferir-te les millors opcions d'assegurança decennal del mercat, proporcionar-te assessorament i realitzant tots els tràmits i gestions amb la companyia."
+    ]
+   },
+   "transportes": {
+    "t": "Assegurança de Transports",
+    "p": [
+     "Protegeix les mercaderies de tercers davant l'ocurrència de diversos riscos que puguin esdevenir durant tot el procés de transport, ja sigui per via fluvial, ferroviària, aèria o marítima, és l'essència de l'assegurança de transports.",
+     "A Confisergur analitzem de manera personalitzada les teves necessitats i busquem la millor solució per a què les mercaderies arribin sempre a bon port amb la millor assegurança de transport, la qual et respongui de manera eficient davant qualsevol imprevist."
+    ]
+   }
+  },
+  "order": {
+   "part": [
+    "coche",
+    "moto",
+    "caravana",
+    "offroad",
+    "hogar",
+    "salud",
+    "accidentes",
+    "comunidad",
+    "vida",
+    "decesos",
+    "viaje",
+    "alquiler",
+    "mascotas",
+    "bicicletas",
+    "embarcaciones"
+   ],
+   "emp": [
+    "comercio",
+    "pime",
+    "responsabilidad",
+    "do",
+    "ciber",
+    "baja",
+    "accidente_convenio",
+    "salud_laboral",
+    "medioambiental",
+    "construccion",
+    "decenal",
+    "transportes"
+   ]
+  }
+ },
+ "es": {
+  "prods": {
+   "final": {
+    "t": "Gracias por contactar con Confisergur",
+    "p": [
+     "En breve contactaremos contigo. Saludos"
+    ]
+   },
+   "coche": {
+    "t": "Seguro de Coche",
+    "p": [
+     "¿Necesitas un seguro para tu nuevo coche? ¿Tienes que renovar tu seguro de coche?",
+     "En Confisergur te asesoramos sobre las coberturas que más te convengan, comparamos las mejores compañías para ofrecerte el mejor seguro de coche para ti, con las mejores coberturas y al mejor precio. Además, estamos contigo ante cualquier imprevisto, realizando todas las gestiones con la compañía por ti."
+    ]
+   },
+   "moto": {
+    "t": "Seguro de Moto",
+    "p": [
+     "¿Necesitas un seguro de moto que se adapte a tus necesidades?",
+     "En Confisergur trabajamos con las compañías líderes en el sector. Negociamos con ellas para ofrecerte las mejores coberturas, siempre al mejor precio, para que disfrutes de tus viajes en moto con total seguridad."
+    ]
+   },
+   "camper": {
+    "t": "Seguro de Camper/Autocaravana",
+    "p": [
+     "Si lo que buscas es un seguro para tu casa rodante, ¡tenemos TU SEGURO!",
+     "Somos especialistas en seguros para campers y autocaravanas. Nuestra experiencia nos ha permitido crear el mejor seguro de autocaravana y camper, con coberturas exclusivas para que tu sólo te dediques a disfrutarlo."
+    ]
+   },
+   "caravana": {
+    "t": "Seguro de Caravana",
+    "p": [
+     "Nuestros seguros para caravanas te ofrecen las mejores coberturas para tu casa rodante, para que tu única preocupación sea elegir destino.",
+     "Nuestra experiencia en el sector nos ha permitido conocer las necesidades que surgen cuando viajas con tu caravana y ofrecerte las mejores coberturas para viajar seguro."
+    ]
+   },
+   "offroad": {
+    "t": "Seguro de Off Road",
+    "p": [
+     "En Confisergur tenemos el mejor seguro para tu vehículo off road.",
+     "Somos conscientes de que se trata de un vehículo especial con el que buscas aventuras y buenos momentos. Pensando en esto, podemos ofrecerte un seguro ideal para que puedas disfrutarlo al máximo."
+    ]
+   },
+   "hogar": {
+    "t": "Seguro de Hogar",
+    "p": [
+     "¿Necesitas un seguro para tu vivienda? ¿Necesitas un seguro para tu piso de alquiler?",
+     "En Confisergur analizamos tu caso y te asesoramos sobre las coberturas que necesitas para estar bien protegido. Te ofrecemos el mejor seguro de Hogar para ti, aquel que se adapta a tus necesidades al mejor precio. Además, revisamos periódicamente tu póliza para que siempre estés bien cubierto ante cualquier imprevisto."
+    ]
+   },
+   "salud": {
+    "t": "Seguro de Salud",
+    "p": [
+     "En Confisergur te ofrecemos solo los mejores seguros de salud, los que ofrecen las mejores coberturas a unos precios ajustados, porque sabemos que la salud es lo más importante.",
+     "Protege tu salud y la de tu familia con un seguro médico que responda de manera eficaz y rápida siempre que lo necesites, y con un cuadro médico amplio cerca de ti."
+    ]
+   },
+   "accidentes": {
+    "t": "Seguro de Accidentes",
+    "p": [
+     "¿Estás buscando un seguro de accidentes?",
+     "En Confisergur sabemos lo importante que es estar bien protegido frente a cualquier accidente.",
+     "Nuestros profesionales cuentan con la experiencia necesaria para asesorarte sobre cuál es el mejor seguro de accidentes para ti. Trabajamos con las mejores compañías para ofrecerte el seguro de accidentes más completo, con las mejores coberturas y siempre al mejor precio."
+    ]
+   },
+   "comunidad": {
+    "t": "Seguro de Comunidad de propietarios",
+    "p": [
+     "¿Administras una comunidad de vecinos? ¿Necesitas un seguro para vuestra comunidad?",
+     "Las comunidades de propietarios necesitan un seguro que les cubra ante cualquier eventualidad.",
+     "En Confisergur sabemos que cada comunidad es diferente, por eso analizamos vuestro caso y os proporcionamos el seguro que mejor se adapta a vuestras necesidades."
+    ]
+   },
+   "vida": {
+    "t": "Seguro de Vida",
+    "p": [
+     "¿Estás buscando un seguro de vida?",
+     "En Confisergur trabajamos con las mejores compañías, comparamos y negociamos con ellas para proporcionarte el seguro de vida que mejor se adapta a tus necesidades.",
+     "Porque no todos los seguros de vida son iguales, el equipo de profesionales de Confisergur te asesoramos sobre cual es aquel seguro de vida ideal para ti."
+    ]
+   },
+   "decesos": {
+    "t": "Seguro de Decesos",
+    "p": [
+     "El seguro de decesos protege a los familiares ante la delicada situación emocional que supone gestionar todos los trámites legales del fallecimiento de un ser querido. Este seguro cubre los gastos del Servicio fúnebre y se responsabiliza de los trámites administrativos para que los familiares no deban acarrear con ello en este duro proceso.",
+     "En Confisergur te ayudamos a encontrar la póliza de decesos que se adapte a tus circunstancias y que garantice la tranquilidad de tus familiares."
+    ]
+   },
+   "viaje": {
+    "t": "Seguro de Viaje",
+    "p": [
+     "¿Estás planificando un viaje? ¿Buscas un seguro de viaje para viajar con total tranquilidad?",
+     "Cada viaje es diferente y cada viajero también. Por eso en Confisergur te asesoramos sobre cuál es el seguro de viaje que necesitas. Trabajamos con las mejores compañías especializadas para ofrecerte el seguro de viaje que mejor se adapta a ti, al mejor precio."
+    ]
+   },
+   "alquiler": {
+    "t": "Seguro de Impago de alquiler",
+    "p": [
+     "Si eres propietario de un inmueble y tienes pensado alquilarlo, en Confisergur tenemos la solución ideal para ti.",
+     "El seguro de impago de alquiler es el mejor aliado para proteger tu propiedad contra daños y para asegurar el impago de los alquileres. ¡Alquila seguro!"
+    ]
+   },
+   "mascotas": {
+    "t": "Seguro de Mascotas",
+    "p": [
+     "Si quieres a tu mascota como a un miembro más de la familia, protégela con el mejor seguro de mascotas.",
+     "Te ofrecemos diferentes opciones de cobertura y te ayudamos a escoger cuál es el seguro de mascotas que mejor se adapta a tu querido amigo."
+    ]
+   },
+   "bicicletas": {
+    "t": "Seguro de Bicicletas y Patinetes",
+    "p": [
+     "La vida cambia. La manera de desplazarnos también.",
+     "La apuesta por una movilidad más respetuosa con el medio ambiente es obligación de todos.",
+     "En Confisergur somos conscientes de ello y te ofrecemos una gran variedad de seguros para bicicletas y patinetes, sean eléctricos o no, con las mejores coberturas y al mejor precio."
+    ]
+   },
+   "embarcaciones": {
+    "t": "Seguro de Embarcaciones de recreo",
+    "p": [
+     "¿Tienes una embarcación con la que disfrutas de tu pasión por el mar?",
+     "En Confisergur te ofrecemos el seguro a medida para que tú decidas el nivel de cobertura que quieras darle. Máxima seguridad y tranquilidad para que disfrutes al máximo de la navegación."
+    ]
+   },
+   "comercio": {
+    "t": "Seguro de Comercio",
+    "p": [
+     "Sabemos que tu negocio es el proyecto de tus sueños. En él destinas esfuerzos e ilusión.",
+     "En Confisergur te ofrecemos los seguros que mejor se adaptan a tu negocio. Máxima protección y coberturas para que tu sólo pienses en llevarlo a la cima."
+    ]
+   },
+   "pime": {
+    "t": "Seguro de PIME",
+    "p": [
+     "Estar al frente de una empresa requiere focalizarse en su buen funcionamiento, adoptando los ajustes necesarios, tomando decisiones y adaptándose a los continuos cambios del mercado.",
+     "Nuestra experiencia en seguros para empresas, nos convierte en el mejor aliado en para su protección, continuidad y éxito."
+    ]
+   },
+   "responsabilidad": {
+    "t": "Seguro de Responsabilidad Civil",
+    "p": [
+     "La actividad de las empresas las expone a ciertos riesgos, necesarios para alcanzar el éxito, pero que pueden causar daños a terceros, tanto materiales como personales.",
+     "Nuestros seguros de responsabilidad civil ofrecen la tranquilidad de no comprometer la viabilidad y el futuro de las empresas que confían en nosotros."
+    ]
+   },
+   "do": {
+    "t": "Seguro de D&O",
+    "p": [
+     "Las decisiones tomadas desde los equipos directivos pueden llegar a generar responsabilidades que afecten al patrimonio de sus integrantes.",
+     "El seguro D&O protege ante las amenazas que conllevan determinados cargos directivos y dan protección ante las consecuencias de sus decisiones.",
+     "En Confisergur os asesoramos sobre cuál es el seguro de D&O que mejor se adapta a vuestra organización, ofreciéndoos los mejores seguros y realizando todas las gestiones de contratación y seguimiento."
+    ]
+   },
+   "ciber": {
+    "t": "Seguro Ciber",
+    "p": [
+     "La tecnología ha proporcionado agilidad, eficiencia y conectividad en la actividad de las empresas, pero también ha generado nuevos riesgos a los que están expuestas.",
+     "La demanda de seguros contra ciberriesgos crece de forma exponencial en los últimos años. Nuestra experiencia nos ha enseñado que el seguro ciber es uno de esos seguros imprescindibles para cualquier organización de hoy en día, independientemente de su tamaño y actividad."
+    ]
+   },
+   "baja": {
+    "t": "Seguro de Baja Laboral",
+    "p": [
+     "Sin lugar a duda, los seguros de baja laboral son de los imprescindibles para los trabajadores autónomos.",
+     "Ayudan a mantener el nivel de ingresos y a hacer frente a los gastos fijos recurrentes de tu negocio, asegurando su continuidad."
+    ]
+   },
+   "accidente_convenio": {
+    "t": "Seguro de Accidentes Convenio",
+    "p": [
+     "El seguro de accidentes convenio da cumplimiento a lo contenido en determinados convenios colectivos.",
+     "En Confisergur te ofrecemos la mejor opción de seguro de accidentes de convenio para que no tengas que preocuparte. Realizamos los tramites de contratación y gestión para que tus empleados estén siempre bien protegidos y tu empresa cumpla con el convenio establecido."
+    ]
+   },
+   "salud_laboral": {
+    "t": "Seguro de Salud",
+    "p": [
+     "Cada vez hay más empresas que apuestan por mayores beneficios sociales, económicos y emocionales para sus trabajadores.",
+     "Los seguros de salud colectivos favorecen el clima laboral, incrementan la satisfacción y productividad de los empleados y refuerzan el compromiso con la empresa.",
+     "Nuestros profesionales asesoraran a vuestra empresa a encontrar aquel seguro de salud colectivo que mejor se adapta a vuestras singularidades y necesidades."
+    ]
+   },
+   "medioambiental": {
+    "t": "Seguro de Responsabilidad Medioambiental",
+    "p": [
+     "Toda actividad empresarial tiene un mayor o menor impacto medioambiental. La Ley de Responsabilidad Medioambiental pretende asegurar que cualquier operador económico pueda disponer de los recursos económicos suficientes para poder hacer frente a los costes derivados de los daños que pudiera provocar su actividad en el medioambiente.",
+     "Nuestros expertos os asesoraran sobre que póliza de responsabilidad medioambiental requiere vuestra empresa, para así cumplir con la legislación vigente."
+    ]
+   },
+   "construccion": {
+    "t": "Seguro de Todo Riesgo Construcción",
+    "p": [
+     "El objetivo fundamental del seguro de todo riesgo construcción es proteger contra los daños y pérdidas accidentales sufridos en la obra, así como contra reclamaciones de terceros por daños personales o materiales.",
+     "En Confisergur no queremos que ningún contratiempo te impida finalizar tu obra. Por eso, trabajamos con compañías especializadas en seguros de la construcción, que protejan de la mejor manera los riesgos que puedan aparecer."
+    ]
+   },
+   "decenal": {
+    "t": "Seguro Decenal",
+    "p": [
+     "El seguro decenal es una garantía para cualquier comprador de vivienda nueva y de obligada contratación por parte del promotor.",
+     "Ofrecer tranquilidad y seguridad en la promoción de viviendas para los futuros compradores, es sinónimo de prestigio y reconocimiento de buena praxis.",
+     "En Confisergur trabajamos con compañías líderes en el sector para ofrecerte las mejores opciones de seguro decenal del mercado, asesorándote y realizando todos los trámites y gestiones con la compañía."
+    ]
+   },
+   "transportes": {
+    "t": "Seguro de Transportes",
+    "p": [
+     "Proteger las mercancías de terceros ante la ocurrencia de diversos riesgos que se puedan presentar durante todo su proceso de transporte, ya sea por vía fluvial, férrea, aérea o marítima, es la esencia del seguro de transporte.",
+     "En Confisergur analizamos de forma personalizada tus necesidades y buscamos la mejor solución para que las mercancías lleguen siempre a buen puerto con el mejor seguro de transportes que responda de manera eficaz ante cualquier imprevisto."
+    ]
+   }
+  },
+  "order": {
+   "part": [
+    "coche",
+    "moto",
+    "caravana",
+    "offroad",
+    "hogar",
+    "salud",
+    "accidentes",
+    "comunidad",
+    "vida",
+    "decesos",
+    "viaje",
+    "alquiler",
+    "mascotas",
+    "bicicletas",
+    "embarcaciones"
+   ],
+   "emp": [
+    "comercio",
+    "pime",
+    "responsabilidad",
+    "do",
+    "ciber",
+    "baja",
+    "accidente_convenio",
+    "salud_laboral",
+    "medioambiental",
+    "construccion",
+    "decenal",
+    "transportes"
+   ]
+  }
+ }
+}
