@@ -1,4 +1,4 @@
-"""Generador de la versió G (F + correcció del text de la incidència) (CA + ES) de la web de Configrup."""
+"""Generador de la versió H (G + actualització de l'avís: anàlisi forense i IBAN) (CA + ES) de la web de Configrup."""
 import json, os, re, html
 HERE = os.path.dirname(os.path.abspath(__file__))
 OUT = os.path.join(HERE, "..", "web")
@@ -16,11 +16,13 @@ INCI["ca"]["body"] = INCI["ca"]["body"].replace("indicades al final d'aquest mis
 AVIS = {
  "ca": {"barra": "Informació important: incidència de seguretat en un proveïdor tecnològic (3 de novembre de 2026).", "barra_mes": "Més informació",
   "p1": "El 3 de novembre es va produir una incidència de seguretat en un dels nostres proveïdors tecnològics que podria haver exposat algunes dades personals, com ara el nom, el DNI, la data de naixement, les dades de contacte i la informació de la pòlissa. Ja hem notificat la incidència a l’Agència Espanyola de Protecció de Dades (AEPD).",
+  "p_iban": "MPM ens ha informat que ha finalitzat l'anàlisi forense de la incidència. Segons la informació rebuda, el número de compte bancari (IBAN) podria haver-se vist afectat, però no se'ns ha confirmat que aquestes dades hagin estat desxifrades ni utilitzades indegudament.",
   "p2": "Desconfia de qualsevol comunicació que et demani contrasenyes, pagaments o canvis de compte bancari, ja que nosaltres mai no sol·licitarem aquesta informació per aquests mitjans.",
   "p3": "Més informació <a href=\"{inc}\">aquí</a> o al telèfon <a href=\"tel:+34938892969\">938 892 969</a>.", "boto": "Més informació", "tancar": "Tancar", "etiqueta": "Avís important"},
  "es": {"barra": "Información importante: incidencia de seguridad en un proveedor tecnológico (3 de noviembre de 2026).", "barra_mes": "Más información",
   "p1": "El 3 de noviembre se produjo una incidencia de seguridad en uno de nuestros proveedores tecnológicos que podría haber expuesto algunos datos personales, como el nombre, el DNI, la fecha de nacimiento, los datos de contacto y la información de la póliza. Ya hemos notificado la incidencia a la Agencia Española de Protección de Datos (AEPD).",
-  "p2": "Desconfía de cualquier comunicación que te solicite contraseñas, pagos o cambios de cuenta bancaria, ya que nosotros nunca solicitaremos esta información por estos medios.",
+  "p_iban": "MPM nos ha informado de que ha finalizado el análisis forense de la incidencia. Según la información recibida, el número de cuenta bancaria (IBAN) podría haberse visto afectado, aunque no se nos ha confirmado que estos datos hayan sido descifrados ni utilizados de forma indebida.",
+  "p2": "Desconfía de cualquier comunicación que te solicite contraseñas, pagos o cambios de cuenta bancaria, ya que nosotros nunca te pediremos esta información por estos medios.",
   "p3": "Más información <a href=\"{inc}\">aquí</a> o en el teléfono <a href=\"tel:+34938892969\">938 892 969</a>.", "boto": "Más información", "tancar": "Cerrar", "etiqueta": "Aviso importante"},
 }
 LEGAL = json.load(open(os.path.join(HERE, "legal.json"), encoding="utf-8"))
@@ -266,6 +268,7 @@ def dialog_avis(L):
   <span class="etiqueta">{a["etiqueta"]}</span>
   <h3 id="dlg-avis-t">ConfiGrup Brokers</h3>
   <p>{a["p1"]}</p>
+  <p>{a["p_iban"]}</p>
   <p><strong>{a["p2"]}</strong></p>
   <p>{a["p3"].format(inc=P["inc"])}</p>
   <div class="bts"><a class="btn btn-blau" href="{P["inc"]}">{a["boto"]} {ic("arrow")}</a><button class="btn btn-linia tancar-avis">{a["tancar"]}</button></div>

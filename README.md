@@ -2,7 +2,7 @@
 
 Web estàtica de **Configrup Brokers** (abans Confisergur), corredoria d'assegurances amb oficines a Vic, Granollers, Vilassar de Mar, Barberà del Vallès i Roda de Ter. Bilingüe: català (per defecte) i castellà.
 
-Versió actual: **G**.
+Versió actual: **H**.
 
 ## Estructura
 
